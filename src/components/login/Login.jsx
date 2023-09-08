@@ -24,6 +24,7 @@ const Login = () => {
 
   return (
     <div className="container">
+      <h1>Learn React</h1>
       <span className="user">{user.name}</span>
       <form>
         <input
